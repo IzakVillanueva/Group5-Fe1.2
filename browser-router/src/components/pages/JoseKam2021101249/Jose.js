@@ -1,13 +1,13 @@
 import React from 'react'
 import './Jose.css';
 
-function Jester() {
+function Jose() {
   return (
-    <div className="content">
-      <h2>Jose Roberto Kam SN:2021101249</h2>
+    <div className="jose">
+      <h2>Jose Roberto J. Kam SN:2021101249</h2>
       
     </div>
   )
 }
 
-export default Jester
+export default Jose

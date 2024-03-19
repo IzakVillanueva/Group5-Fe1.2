@@ -3,7 +3,7 @@ import './Jester.css';
 
 function Jester() {
   return (
-    <div className="content">
+    <div className="jester">
       <h2>Jester D. Cruzate SN:2021102308</h2>
       
     </div>
