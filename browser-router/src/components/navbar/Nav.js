@@ -18,16 +18,16 @@ function Nav() {
                     <Link to="/JesterCruzate2021102308" className="link">Jester</Link>
                     </li>
                     <li>
-                        <Link to="/map" className="link">Ghasoot</Link>
+                        <Link to="/GhasuttPatarata2019135835" className="link">Ghasoot</Link>
                     </li>
                     <li>
-                        <Link to="/hooks" className="link">Jurich</Link>
+                        <Link to="/JurichCeleste2021102215" className="link">Jurich</Link>
                     </li>
                     <li>
-                        <Link to="/hooks" className="link">IC</Link>
+                        <Link to="/IvanneYabut2021107696" className="link">IC</Link>
                     </li>
                     <li>
-                        <Link to="/hooks" className="link">Kam</Link>
+                        <Link to="/JoseKam2021101249" className="link">Kam</Link>
                     </li>
                 </ul>
             </div>
