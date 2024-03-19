@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 
+import Template from "./components/Template";
 import Nav from "./components/navbar/Nav";
 import Footer from "./components/footer/Footer";
 
@@ -9,8 +10,12 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Nav />
+        
+        <Routes>
+          <Route path="/" element={<Template />}>
+          </Route>
+        </Routes>
 
-        {/* Importing the Footer component after nested routes */}
         <Footer />
       </BrowserRouter>
     </div>
