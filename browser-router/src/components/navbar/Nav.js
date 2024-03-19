@@ -15,7 +15,7 @@ function Nav() {
                     <Link to="/IzakVillanueva2021103245" className="link">Izak</Link>
                     </li>
                     <li>
-                    <Link to="/effect" className="link">Jester</Link>
+                    <Link to="/JesterCruzate2021102308" className="link">Jester</Link>
                     </li>
                     <li>
                         <Link to="/map" className="link">Ghasoot</Link>

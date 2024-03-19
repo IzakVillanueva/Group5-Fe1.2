@@ -20,7 +20,12 @@ function App() {
         
         <Routes>
           <Route path="/" element={<Template />}>
-            <Route path="/izak" element={<Izak />} />
+            <Route path="/IzakVillanueva2021103245" element={<Izak />} />
+            <Route path="/GhasuttPatarata2019135835" element={<Ghasutt />} />
+            <Route path="/IvanneYabut2021107696" element={<Ivanne />} />
+            <Route path="/JesterCruzate2021102308" element={<Jester />} />
+            <Route path="/JoseKam2021101249" element={<Jose />} />
+            <Route path="/JurichCeleste2021102215" element={<Jurich />} />
           </Route>
         </Routes>
 
