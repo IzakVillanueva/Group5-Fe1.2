@@ -4,7 +4,7 @@ import './Jose.css';
 function Jose() {
   return (
     <div className="jose">
-      <h2>Jose Roberto J. Kam SN:2021101249</h2>
+      <h2>Jose Roberto J. Kam #6 SN:2021101249</h2>
       
     </div>
   )
