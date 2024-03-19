@@ -1,5 +1,5 @@
 import React from 'react'
-import './JesterCruzate2021102308/Jester.css';
+import './Jester.css';
 
 function Jester() {
   return (
