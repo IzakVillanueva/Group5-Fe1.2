@@ -17,7 +17,6 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Nav />
-        
         <Routes>
           <Route path="/" element={<Template />}>
             <Route path="/IzakVillanueva2021103245" element={<Izak />} />
