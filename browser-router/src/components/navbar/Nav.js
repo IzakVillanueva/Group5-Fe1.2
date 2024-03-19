@@ -23,6 +23,12 @@ function Nav() {
                     <li>
                         <Link to="/hooks" className="link">Jurich</Link>
                     </li>
+                    <li>
+                        <Link to="/hooks" className="link">IC</Link>
+                    </li>
+                    <li>
+                        <Link to="/hooks" className="link">Kam</Link>
+                    </li>
                 </ul>
             </div>
 
