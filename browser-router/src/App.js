@@ -4,7 +4,7 @@ import './App.css';
 import Template from "./components/Template";
 import Nav from "./components/navbar/Nav";
 import Footer from "./components/footer/Footer";
-import Izak from "./components/pages/izak/Izak";
+import Izak from "./components/pages/IzakVillanueva2021103245/Izak";
 
 function App() {
   return (
